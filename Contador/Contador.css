@@ -1,0 +1,50 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: Oswald;
+}
+
+.titulo {
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 36px;
+}
+
+.numero {
+	-fx-font-size: 28px;
+	-fx-text-fill: gray;
+}
+
+.par {
+	-fx-text-fill: green;
+	-fx-font-size: 20px;
+}
+
+.impar {
+	-fx-text-fill: red;
+	-fx-font-size: 20px;
+}
+
+.parimpar {
+	-fx-font-size: 20px;
+	-fx-text-fill: green;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 24px;
+	-fx-min-width: 50px;
+	-fx-min-heigth: 50px;
+	-fx-background-radius: 25px;
+}
+
+.verde {
+	-fx-text-fill: #00ff00;
+}
+
+.vermelho {
+	-fx-text-fill: #ff0000;
+}
+
+.cinza {
+	-fx-text-fill: gray;
+}
