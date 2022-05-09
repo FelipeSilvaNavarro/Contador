@@ -1,2 +1,2 @@
 # Contador
-Counter developed in javafx
+Contador desenvolvido em JavaFx
